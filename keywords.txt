@@ -1,0 +1,27 @@
+# datatypes ans class names
+IntelliBot_v1	KEYWORD1
+Motors	KEYWORD1
+Ultrasonic	KEYWORD1
+IR_Sensors	KEYWORD1
+
+# functions and methods 
+ 
+init	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+brake	KEYWORD2
+right	KEYWORD2
+left	KEYWORD2
+measureDistanceCm	KEYWORD2
+measureDistanceInch	KEYWORD2
+getDistanceCm	KEYWORD2
+getDistanceInch	KEYWORD2
+readRightIR	KEYWORD2
+readLeftIR	KEYWORD2	
+getRightIR	KEYWORD2
+getLeftIR	KEYWORD2
+
+#defines
+
+WhiteColor	LITERAL1
+BlackColor	LITERAL1
