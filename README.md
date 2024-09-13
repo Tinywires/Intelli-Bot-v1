@@ -1,3 +1,5 @@
+![INTELLI BOT V1 0](https://github.com/user-attachments/assets/228d716f-b738-4d00-9bc2-6305bc4eb56a)
+
 /**************
 
 Library For 
@@ -20,7 +22,6 @@ See <https://www.techeonics.com> for details.
 ********************/
 
 
-
-
 # Intelli-Bot-v1.0![Vintlane](https://github.com/user-attachments/assets/577c7c6f-7f04-4301-97a2-4e2fe75b6a09)
-![INTELLI BOT V1 0](https://github.com/user-attachments/assets/228d716f-b738-4d00-9bc2-6305bc4eb56a)
+
+
